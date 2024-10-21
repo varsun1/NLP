@@ -61,7 +61,7 @@ print("Person Named Entities:", named_entities['PER'])
 print("Geopolitical Entity Named Entities:", named_entities['GPE'])
 
 ```
-if any error caused run before above code<br>
+if any error caused run this code in image before above code<br>
 ![image](https://github.com/user-attachments/assets/65a45959-b918-44a0-a82f-42c9c6a96673)
 
 
